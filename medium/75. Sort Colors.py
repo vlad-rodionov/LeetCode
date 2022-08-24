@@ -1,3 +1,8 @@
+"""
+Dutch national flag problem
+"""
+
+
 def sort_colors(nums):
 
     mid = 1
